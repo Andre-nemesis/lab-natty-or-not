@@ -23,9 +23,10 @@ Processo realizado:
  - Foi utilizado a ferramenta de criação de imagens do **Copilot** para a criação do avatar estático utilizado no video e futuramente, no restante dos futuros videos
  - A retirada do fundo da imagem do avatar usando o site **erase.bg**
  - A criação das músicas de fundo utilizando a ***Suno.ia*** com comando via prompt
- - Por fim a utilização do **CapCut** para realizar a edição do video e a junção de todos os elementos
+ - Por fim a utilização do **CapCut** para realizar a edição do video e a junção de todos os elementos e criar uma legenda automática para o video
 
 ## 🚀 Resultados
 Abaixo está o link para assitir o video criado ao final de todo processo
-[Acesse o Vídeo](https://drive.google.com/file/d/1SiFgQy_OWw9qR77UaXHp-dy4NyxJPgVL/view?usp=sharing)
+<br>
+-> [Acesse o Vídeo](https://drive.google.com/file/d/1SiFgQy_OWw9qR77UaXHp-dy4NyxJPgVL/view?usp=sharing)
 
