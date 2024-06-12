@@ -26,5 +26,6 @@ Processo realizado:
  - Por fim a utilização do **CapCut** para realizar a edição do video e a junção de todos os elementos
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Abaixo está o link para assitir o video criado ao final de todo processo
+[Acesse o Vídeo](https://drive.google.com/file/d/1SiFgQy_OWw9qR77UaXHp-dy4NyxJPgVL/view?usp=sharing)
 
